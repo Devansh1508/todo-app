@@ -1,0 +1,34 @@
+.darkMode1{
+    background: #232323;
+    color: #bec0be;
+}
+.darkMode2{
+    background: #2c2c2c;
+    color: #bec0be;
+}
+.darkMode3{
+    background: #2f3630;
+    color: #bec0be;
+}
+/* for options  */
+.darkMode4{
+    background: #253026;
+    color: #253026;
+}
+
+.MuiChartsLegend-root, .MuiToolbar-root{
+    display: none;
+}
+
+.darkModeTableBorder{
+    border-top: 1px solid #3c413c;
+}
+
+.darkModeStar{
+    color:#ffffff;
+}
+
+.darkModeBtn{
+    background-color:#347136;
+    color:#CFCFCF;
+}
